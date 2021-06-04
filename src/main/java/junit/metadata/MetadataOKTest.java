@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.squashtest.ta.galaxia.squash.tf.galaxia.annotations.TFMetadata;
 
-public class MetadataTestOK {
+public class MetadataOKTest {
 
     @Test
 	@TFMetadata( key = "linked-TC",value={"118b48fb-5e3a-47e8-acb4-047112de679a"})
